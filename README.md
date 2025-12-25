@@ -13,7 +13,7 @@ A clean, welcoming landing page for students to start their DSA journey.
 
 ### About Me Section
 An integrated portfolio section to showcase instructor or student details.
-![About Me Screenshot](./public/screenshots/screenshot-aboutme.png )
+![About Me Screenshot](./public/screenshots/screenshott-aboutme.png )
 
 ### Interactive Program Simulator
 View C code and run simulations (like Stack Operations) instantly.
